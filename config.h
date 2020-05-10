@@ -2,7 +2,7 @@
 static const Block blocks[] = {
 	/*Command*/				/*Update Interval*/	/*Update Signal*/
 
-	{ "~/.local/bin/statusbar/torrent",    	20,	    		7},
+/*	{ "~/.local/bin/statusbar/torrent",    	20,	    		7},*/
 	{ "~/.local/bin/statusbar/weather",   	18000,			5},
 	{ "~/.local/bin/statusbar/clock",      	60,			1},
 	{ "~/.local/bin/statusbar/volume ",	0,			10},
